@@ -1,6 +1,6 @@
 # Le projet Hell's Guitars
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 Hell’s Guitars est un magasin de vente de guitares de la ville de Mende. Le magasin propose aussi des services de lutherie (réglages, réparation, …) et des professeurs dispensent des cours de pratique de l’instrument. Son gérant Franck Black souhaite diversifier ses supports de vente et être maintenant présent sur Internet. Durant son stage de fin de première année, le stagiaire Steve Morse a déjà réalisé une ébauche de l’application. La base de données, la structure des fichiers, la charte graphique ainsi que certaines fonctionnalités sont donc fournies et déjà fonctionnelles.
 
@@ -30,7 +30,7 @@ Dans le dossier database vous trouverez un script SQL pour créer votre base de 
 Veillez à placer les scripts dans le répertoire de publication de votre Wamp.
 
 ## Auteurs
-* **Benjamin Becker** _bbecker48_ [@bbecker48](https://github.com/bbecker48)
+* **Benjamin Becker**  _bbecker48_  [@bbecker48](https://github.com/bbecker48)
 
 ## License
 
