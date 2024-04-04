@@ -18,7 +18,7 @@ Cette version doit rendre opérationnels les liens de la section « instruments 
 -	Le catalogue des guitares folks
 -	Le catalogue des guitares classiques
 -	Le catalogue des basses
--	
+  
 Ces catalogues afficheront une vue tabulaire des produits de la catégorie choisie avec leur référence, nom, descriptif, image et prix TTC (le taux de TVA est actuellement de 20% en France).
 
 ### AJOUTER UN BOUTON/LIEN « AJOUTER AU PANIER »
